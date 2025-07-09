@@ -66,7 +66,7 @@
 
 ## **📫 联系我**  
 
-[![Email](https://img.shields.io/badge/Email-你的邮箱-D14836?style=flat&logo=gmail&logoColor=white)](mailto:你的邮箱)  
+[![Email](https://img.shields.io/badge/Email-你的邮箱-D14836?style=flat&logo=gmail&logoColor=white)](mailto:18961351314@163.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-你的LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/你的LinkedIn)  
 [![Twitter](https://img.shields.io/badge/Twitter-你的Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/你的Twitter)  
 [![个人网站](https://img.shields.io/badge/Website-你的网站-FF7139?style=flat&logo=google-chrome&logoColor=white)](https://你的网站)  
@@ -78,5 +78,3 @@
 ⭐️ **如果你喜欢我的开源项目，请 Star 支持！**  
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=你的用户名.你的用户名)  
-
-（请替换 `你的用户名`、`你的邮箱`、`你的项目名` 等占位符为你的真实信息）
